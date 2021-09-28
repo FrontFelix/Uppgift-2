@@ -11,3 +11,8 @@
 .service:hover .dropdown {
     display: flex;
 }
+
+body {
+    background-color: lightgrey;
+}
+
