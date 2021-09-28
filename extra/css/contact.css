@@ -1,0 +1,13 @@
+.service {
+    position: relative;
+}
+.dropdown {
+    width: 200px;
+    position: absolute;
+    left: 25px;
+    top: 25px;
+}
+
+.service:hover .dropdown {
+    display: flex;
+}
