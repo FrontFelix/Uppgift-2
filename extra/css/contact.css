@@ -11,3 +11,12 @@
 .service:hover .dropdown {
     display: flex;
 }
+.input-field {
+    width: 300px;
+}
+.input-field input {
+}
+
+.main-left button {
+    width: 100px;
+}
