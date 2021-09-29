@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,14 +8,98 @@
     <title>Document</title>
 
     <!--CSS FILES-->
-    <link rel="stylesheet" href="./extra/css/style.css">
-    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./extra/css/about.css" />
+    <link rel="stylesheet" href="./extra/css/re-usable.css" />
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <!--CSS FILES-->
+
+    <!--JQUERY-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <!--JQUERY-->
 </head>
+
 <body>
+    <!--NAVBAR-->
+    <header class="navbar mb-20">
+        <div class="nav-content flex py-4 justify-between large-max px-6 xl:px-0">
+            <div class="nav-left">
+                <img class="hidden xl:block" src="./extra/img/logo.jpg" alt="LOGO">
+                <h1 class="text-xl xl:hidden">EH´s Plåtslageri AB</h1>
+            </div>
+            <div class="nav-right hidden self-center xl:flex justify-around">
+                <div class="link">
+                    <a class="mx-6" href="./about.html">Om oss</a>
+                </div>
+                <div class="link">
+                    <a class="mx-6" href="">Kontakta oss</a>
+                </div>
+                <div class="service">
+                    <a class="mx-6" href="">Tjänster <i class="fas fa-sort-down self-center"></i></a>
+                    <!--DROPDOWN MENU-->
+                    <div class="dropdown bg-red-400 hidden flex-col p-5 rounded text-white">
+                        <a class="py-3" href="">Byggnadsplåt</a>
+                        <a class="py-3" href="">Ventilation</a>
+                        <a class="py-3" href="">Taksäkerhet</a>
+                        <a class="py-3" href="">Garageportar</a>
+                        <a class="py-3" href="">Miljötänk</a>
+                        <a class="py-3" href="">Sol El</a>
+                        <a class="py-3" href="">Inglasningar</a>
+                        <a class="py-3" href="">Skottar Snö Säkert</a>
+                    </div>
+                    <!--DROPDOWN MENU-->
+                </div>
+                <div class="link">
+                    <a class="mx-6" href="">Referenser</a>
+                </div>
+            </div>
+            <!--NAV-MOBILE-RIGHT-SIDE-->
+            <div class="nav-mobile block xl:hidden self-center">
+                <button class="float-right hamburger"><i class="fas fa-bars self-center"></i></button>
+                <div class="sidebar bg-red-400 p-4 text-white">
+                    <button class="float-right close p-2"><i class="fas fa-times text-xl"></i></button>
+                    <!--SIDEBAR BUTTONS-->
+                    <div class="link pb-4 pt-10">
+                        <a class="mx-6" href="">Om oss</a>
+                    </div>
+                    <div class="link py-4">
+                        <a class="mx-6" href="">Kontakta oss</a>
+                    </div>
+                    <div class="link py-4">
+                        <a class="mx-6" href="">Referenser</a>
+                    </div>
+                    <div class="service py-4">
+                        <a class="mx-6" href="">Tjänster <i class="fas fa-sort-down self-center"></i></a>
+                        <!--DROPDOWN MENU-->
+                        <div class="dropdown bg-transparent hidden flex-col p-5 rounded text-white">
+                            <a class="py-3 mx-6" href="">Byggnadsplåt</a>
+                            <a class="py-3 mx-6" href="">Ventilation</a>
+                            <a class="py-3 mx-6" href="">Taksäkerhet</a>
+                            <a class="py-3 mx-6" href="">Garageportar</a>
+                            <a class="py-3 mx-6" href="">Miljötänk</a>
+                            <a class="py-3 mx-6" href="">Sol El</a>
+                            <a class="py-3 mx-6" href="">Inglasningar</a>
+                            <a class="py-3 mx-6" href="">Skottar Snö Säkert</a>
+                        </div>
+                        <!--DROPDOWN MENU-->
+                    </div>
+                    <!--SIDEBAR BUTTONS-->
+                </div>
+            </div>
+            <!--NAV-MOBILE-RIGHT-SIDE-->
+        </div>
+        </div>
+        </div>
+    </header>
+    <!--NAVBAR-->
+    <main>
+        <div class="main-content">
 
-
+        </div>
+    </main>
 
 </body>
+
 </html>
