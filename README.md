@@ -3,24 +3,12 @@
 
 
 # Design Tankar
+Vi har valt att designa om EH's Plåtslageri AB då deras hemsida har en väldigt gammal design och inte är fullt responsiv, dem har även mycket onödigt material i deras hemsida som gör det rörigt för användarna. 
 
-## Navbar
-Left side -
-Logo Img
+Vi har valt att göra hemsidan enklare att läsa och navigera sig fram på med en modern design och bättre placering utav länkar samt information. 
 
-Right side -
-Om oss
-Kontakt
-Dropdown Tjänster
-Referenser
+Vi har även valt att lägga in lite animationer för en bättre känsla när man söker sig fram på hemsidan. 
 
-## Kontakt
-
-Form
-Facebook Länkning
-Google Maps 
-Öppet-tider
-Kontakt Personer Mail / Telefon
 
 ## Om oss
 Information
@@ -33,14 +21,30 @@ Kontakt Personer // Kanske länka till kontakta oss sidan istället ???
 
  http://www.eh-plat.se/page_41.html
 
+ ## Orginal Bild
+
+## Stor skärm Bild
+
+## Tablet Bild
+
+## Telefon bild
+
 # Remake 2 ( Contact )
 
 http://www.eh-plat.se/contact_5.html
 
-# Felix Update
+## Orginal Bild
 
-La till en H1 och en P tag. La även till google maps på deras location och hitta oss facebook knappen.
-Mestadels fixat på mobil versionen om du vill kolla lite. Inte någon advance css eller html. Använt flex och flexat allt i kolumner på mobil sidan för sedan kunna använda flex igen fast då på "row". Ingen padding har använts på mobil sidan för att man ska få plats med mycket och inte förminska allt så det blir allt för litet. 
-Nästa steg är att lägga in form i diven "main-right" där de ska vara en <form></form> med inputs labels och en skicka knappt. Alllt ska va radat neråt dock vet jag er hur vi ska designa den för jag är sjukt okreativ haha. 
-Vi behöver även fixa hamburgar knappen snarast så vi får navbaren klar, kan vara en skön grej att ha klar så man slipper sitta och slipa på den i 50 år ;P 
+## Stor skärm Bild
 
+## Tablet Bild
+
+## Telefon bild
+
+
+
+# Avgränsningar
+
+* Bilder som tog upp plats har tagits bort, maximera innehållet till användarna.
+* Tog bort hemsideadress på form input, Känns märkligt när man ska skicka ett meddelande till företaget. Ifall man inte har en hemsida t.ex.
+* Tog bort bakgrundsbild för att göra allt mer synligt och mer modernt. ( Enklare Design )
