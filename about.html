@@ -23,7 +23,7 @@
 
 <body>
     <!--NAVBAR-->
-    <header class="navbar mb-20">
+    <header class="navbar mb-10 xl:mb-20">
         <div class="nav-content flex py-4 justify-between large-max px-6 xl:px-0">
             <div class="nav-left">
                 <img class="hidden xl:block" src="./extra/img/logo.jpg" alt="LOGO">
@@ -34,7 +34,7 @@
                     <a class="mx-6" href="./about.html">Om oss</a>
                 </div>
                 <div class="link">
-                    <a class="mx-6" href="">Kontakta oss</a>
+                    <a class="mx-6" href="./contact.html">Kontakta oss</a>
                 </div>
                 <div class="service">
                     <a class="mx-6" href="">Tjänster <i class="fas fa-sort-down self-center"></i></a>
@@ -94,12 +94,46 @@
         </div>
     </header>
     <!--NAVBAR-->
+    
+    <!--MAIN CONTENT / MAIN AREA-->
     <main>
-        <div class="main-content">
-
+        <div class="main-content flex flex-col text-center px-10 xl:flex-row xl:text-left large-max xl:justify-between">
+            <div class="main-left w-full xl:w-1/2 self-center xl:pr-10">
+                <h1 class="text-2xl">Om oss</h1>
+                <p class="text-sm pt-2">Plåtslageri i Karlskoga , solpaneler i karlskoga</p>
+                <p class="text-left pt-5">Familjeföretaget Eh´s plåt startades 2004 och drivs av Peter och Christer. Vi har med hjälp av vår skickliga personal bred kompetens på flera områden. Vi utför varje jobb inom vår sektor med stort engagemang och omtanke. Vi utför arbeten till företag, fastighetsägare, privatpersoner och föreningar. Vårt huvudfocus ligger på Byggnadsplåt och ventilation, men har även kompetens inom balkonginglasningar och solpanelslösningar.</p>
+                <p class="pt-4">Vi är idag sju duktiga serviceinriktatde, medarbetare med största focus på kvalitet och hållbarhet samt funktion.
+                <br>Du är varmt välkommen att kontakta oss!</p>
+                <a class="block w-1/2 mx-auto xl:mx-0 text-center mt-4 bg-red-400 px-4 py-2 rounded text-white" href="./contact.html">Kontakta oss</a>
+            </div>
+            <div class="main-right mt-10 w-full xl:w-1/2 self-center">
+                <img class="mx-auto block xl:rounded" src="./extra/img/car.jpg" alt="">
+                <p class="text-sm pt-5 xl:text-xl">Att välja oss som din nästa plåtleverantör är en investering i kvalitet och omtanke.</p>
+            </div>
         </div>
     </main>
+    <!--MAIN CONTENT / MAIN AREA-->
 
 </body>
+
+
+<script>
+    $(document).ready(function () {
+        $(".close").hide();
+        $(".sidebar").hide();
+        $(".hamburger").click(function () {
+            $(".sidebar").slideToggle("slow", function () {
+                $(".hamburger").hide();
+                $(".close").show();
+            })
+        })
+        $(".close").click(function () {
+            $(".sidebar").slideToggle("slow", function () {
+                $(".close").hide();
+                $(".hamburger").show();
+            })
+        })
+    })
+</script>
 
 </html>

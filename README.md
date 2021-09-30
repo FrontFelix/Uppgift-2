@@ -41,3 +41,5 @@ http://www.eh-plat.se/contact_5.html
 * Bilder som tog upp plats har tagits bort, maximera innehållet till användarna.
 * Tog bort hemsideadress på form input, Känns märkligt när man ska skicka ett meddelande till företaget. Ifall man inte har en hemsida t.ex.
 * Tog bort bakgrundsbild för att göra allt mer synligt och mer modernt. ( Enklare Design )
+* Tog bort en liten bild på "om oss" sidan som satt till höger. Men uttnytjade det spacet för bilden med bilen på och flexade så att texten och bilden var till höger om varandra.
+* Istället för att skriva ut deras telefonnummer på om oss sidan så la vi in en knapp som reffade dem till kontakta oss sidan instället så slipper man använda information dubbelt.
