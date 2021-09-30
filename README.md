@@ -10,13 +10,6 @@ Vi har valt att göra hemsidan enklare att läsa och navigera sig fram på med e
 Vi har även valt att lägga in lite animationer för en bättre känsla när man söker sig fram på hemsidan. 
 
 
-## Om oss
-Information
-Biler
-Kontakt Personer // Kanske länka till kontakta oss sidan istället ???
-
-
-
  # Remake 1 ( About us )
 
  http://www.eh-plat.se/page_41.html
