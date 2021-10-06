@@ -15,7 +15,8 @@ Vi har även valt att lägga in lite animationer för en bättre känsla när ma
  http://www.eh-plat.se/page_41.html
 
  ## Orginal Bild
-![ORGINAL](./ext/Fullscreen-About-O.png "This is a sample image.")
+![Fullscren-About-O](https://user-images.githubusercontent.com/35700990/136227285-15713cf1-aa40-4d63-86b8-36ebb3807894.png)
+
 
 ## Stor skärm Bild
 
@@ -28,7 +29,8 @@ Vi har även valt att lägga in lite animationer för en bättre känsla när ma
 http://www.eh-plat.se/contact_5.html
 
 ## Orginal Bild
-![ORGINAL](./ext/Fullscreen-CONTACT-O.png "This is a sample image.")
+![Fullscreen-Contact-O](https://user-images.githubusercontent.com/35700990/136227254-608394c3-cee6-48cd-bcd6-184ce32d1d61.png)
+
 ## Stor skärm Bild
 
 ## Tablet Bild
