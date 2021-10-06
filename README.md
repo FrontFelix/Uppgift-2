@@ -25,7 +25,8 @@ Vi har även valt att lägga in lite animationer för en bättre känsla när ma
 ![tablet-a](https://user-images.githubusercontent.com/35700990/136227687-3df66b43-be9a-4652-8012-3a6b77f40258.png)
 
 ## Telefon bild
-![telefon-a](https://user-images.githubusercontent.com/35700990/136227781-c0cfcdb3-eba2-4469-a828-ce96bcc10d1e.png)
+![telefon-a](https://user-images.githubusercontent.com/35700990/136228287-36873b5b-a0b5-4266-aa7a-2017c24608ea.png)
+
 
 # Remake 2 ( Contact )
 
@@ -41,7 +42,8 @@ http://www.eh-plat.se/contact_5.html
 ![tablet-c](https://user-images.githubusercontent.com/35700990/136227966-ffc34729-575d-4d88-9fe8-d7fd469385d8.png)
 
 ## Telefon bild
-![telefon-c](https://user-images.githubusercontent.com/35700990/136228031-f109870b-c585-49c6-869d-f555cf73c11e.png)
+![telefon-c](https://user-images.githubusercontent.com/35700990/136228174-783d610a-3db7-4c87-b5a3-266d4aee409d.png)
+
 
 
 
