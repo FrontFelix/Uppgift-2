@@ -15,7 +15,7 @@ Vi har även valt att lägga in lite animationer för en bättre känsla när ma
  http://www.eh-plat.se/page_41.html
 
  ## Orginal Bild
-![ORGINAL](/extra/img/Fullscreen-About-O.png "This is a sample image.")
+![ORGINAL](./extra/img/Fullscreen-About-O.png "This is a sample image.")
 
 ## Stor skärm Bild
 
@@ -28,7 +28,7 @@ Vi har även valt att lägga in lite animationer för en bättre känsla när ma
 http://www.eh-plat.se/contact_5.html
 
 ## Orginal Bild
-![ORGINAL](/extra/img/Fullscreen-CONTACT-O.png "This is a sample image.")
+![ORGINAL](./extra/img/Fullscreen-CONTACT-O.png "This is a sample image.")
 ## Stor skärm Bild
 
 ## Tablet Bild
